@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a simple blog website created using React.js. 
+
 
 ## Table of Contents
 
